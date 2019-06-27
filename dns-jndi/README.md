@@ -8,3 +8,4 @@ In this project I try abilities of [DNS](https://docs.oracle.com/javase/8/docs/t
 * https://docs.oracle.com/javase/8/docs/technotes/guides/jndi/jndi-dns.html
 * https://www.ibm.com/support/knowledgecenter/SSVSD8_8.4.0/com.ibm.websphere.dtx.adapjndi.doc/concepts/c_jndi_DNS_.htm
 * https://github.com/spring-projects/spring-security/tree/master/remoting/src/main/java/org/springframework/security/remoting/dns
+* https://github.com/openjdk/jdk/tree/jdk8-b120/jdk/src/share/classes/com/sun/jndi/dns
